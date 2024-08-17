@@ -10,18 +10,19 @@ chmod +x ./calc.sh
 #### Tool List:
 
 
-### BMI Calculator/ Calculadora de IMC
+##### BMI Calculator/ Calculadora de IMC
 
 The BMI calculator not only receive the user input and calculates their BMI, but also tells the user how much weight they have to lose or gain in order to achieve the healthy BMI.
 
-### Temperature Conversion Calculator
+##### Temperature Conversion Calculator
 
 The Temperature Conversion Calculator tells the user the temperature that the user inputs in another termic scale, as long as it is one of the following scales: Celsius, Kelvin and Fahrenheit.
 
-### Inver Words or Texts
+##### Inver Words or Texts
 
 This algorithm inverts any text typed into it.
 
-### Fibonnacci sequence test and generator
+##### Fibonnacci sequence test and generator
 
 This algorithm verifies if the number typed is in the fibonacci sequence and it tells the user the fibonacci numbers preceding it.
+   
