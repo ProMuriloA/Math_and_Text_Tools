@@ -1,70 +1,27 @@
-**English**
-- 👋 Hi, I’m @ProMuriloA
-- 🌱 I’m currently learning Javascript Web Development
-- 📫 How to reach me: muriloaprofissional@outlook.com
- 
-**Português**
+## Math and Text Tools
 
-- 👋 Olá, eu sou @ProMuriloA
-- 🌱 Estou aprendendo Desenvolvimento Front-End em Javascript
-- 📫 Email para contato: muriloaprofissional@outlook.com
+1. Allow running ./calc.sh in your terminal by typing with all the software in the same folder:
+chmod +x ./calc.sh
+2. Press enter
+3. Run ./calc.sh in your terminal by typing in :
+   ./calc.sh
+5.  Interact with it there. A list is going to appear and you will be able to choose a tool.
 
+#### Tool List:
 
-
-# I'm Murilo Assis / Eu sou Murilo Assis.
-
-**English**
-
-I'm a Software Engineering student and this is my GitHub account. Feel free to browse the repositories, there are some projects there that I'm working on.
-
-**Português**
-
-Eu sou um estudante de Engenharia de Software e esta é minha conta do GitHub. Sinta-se à vontade para navegar pelos repositórios, há alguns projetos neles que eu estou desenvolvendo.
-
-## Python Project 1
 
 ### BMI Calculator/ Calculadora de IMC
 
-**English**
-
 The BMI calculator not only receive the user input and calculates their BMI, but also tells the user how much weight they have to lose or gain in order to achieve the healthy BMI.
 
-**Português**
-
-A Calculadora de IMC não apenas calcula o IMC do usuário como também indica quantos quilogramas o usuário deve perder ou ganhar para ter um IMC saudável.
-
-## Python Project 2
-
-### Temperature Conversion Calculator / Calculadora de Conversão de Temperatura
-
-**English**
+### Temperature Conversion Calculator
 
 The Temperature Conversion Calculator tells the user the temperature that the user inputs in another termic scale, as long as it is one of the following scales: Celsius, Kelvin and Fahrenheit.
 
-**Portuguese**
- 
-A calculadora conversora de temperatura calcula qual a temperatura que o usuário quer converter em qualquer outra escala desde que seja entre Celsius, Kelvin e Fahrenheit.
-
-## Python Project 3
-
-### Inverta Palavras ou Textos
-
-**English**
+### Inver Words or Texts
 
 This algorithm inverts any text typed into it.
 
-**Portuguese**
-
-Este algoritmo consegue inverter a order de qualquer palavra ou texto digitada no terminal
-
-## Python Project 4
-
-### Meu Número Está na Sequência Fibonacci?
-
-**English**
+### Fibonnacci sequence test and generator
 
 This algorithm verifies if the number typed is in the fibonacci sequence and it tells the user the fibonacci numbers preceding it.
-
-**Portuguese**
-
-Este algoritmo testa números e verifica se ele se encontra na sequência fibonacci e informa todos os números fibonacci anteriores a ele
