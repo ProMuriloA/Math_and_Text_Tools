@@ -18,9 +18,14 @@ The BMI calculator not only receive the user input and calculates their BMI, but
 
 The Temperature Conversion Calculator tells the user the temperature that the user inputs in another termic scale, as long as it is one of the following scales: Celsius, Kelvin and Fahrenheit.
 
-##### Inver Words or Texts
+##### Invert Whole Files
 
-This algorithm inverts any text typed into it.
+This algorithm inverts any text typed into a txt file.
+
+##### Invert Words and Phrase
+
+This algorithm inverts words and phrases.
+
 
 ##### Fibonnacci sequence test and generator
 
